@@ -1,0 +1,86 @@
+.head{
+      
+    background-color:white;
+    border:solid;
+    font-family: fantasy;
+     }     
+  .grid {
+    background: darkred;
+    background-color: #F0F8FF;
+    display: flex;
+    justify-content: last baseline;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+  }
+  .grid img{
+    border: solid black;
+  }
+  
+  .camel {
+    border: 1px solid whitesmoke;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    border-width: 6px;
+  }
+  
+  
+  .chameleon {
+    border: 1px solid whitesmoke;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    border-width: 6px;
+  }
+  
+  .cicada {
+    border: 1px solid whitesmoke;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    border-width: 6px;
+  }
+  
+  .pandas {
+    border: 1px solid whitesmoke;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    border-width: 6px;
+  }
+  
+  .pigeon {
+    border: 1px solid whitesmoke;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    border-width: 6px;
+  }
+  
+  .teddy-bear {
+    border: 1px solid whitesmoke;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    border-width: 6px;
+  }
+  
